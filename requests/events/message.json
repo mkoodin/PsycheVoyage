@@ -1,0 +1,39 @@
+{
+    "id": 1340782013967237282,
+    "channel_id": 1339870218100543550,
+    "guild_id": 1339870217488306249,
+    "content": "<@1339861530430406657> how can I free myself from pain and sorrow using mindfulness?",
+    "author": {
+        "id": 988733900509548605,
+        "username": "datamonkey.eth",
+        "discriminator": "0",
+        "avatar": "https://cdn.discordapp.com/avatars/988733900509548605/0ebeb088d0f47949380c5a51180a4c74.png?size=1024",
+        "bot": false,
+        "system": false
+    },
+    "timestamp": "2025-02-16 20:29:02.655000+00:00",
+    "edited_timestamp": null,
+    "mentions": [
+        {
+            "id": 1339861530430406657,
+            "username": "PsycheVoyageBot",
+            "discriminator": "2729",
+            "avatar": null,
+            "bot": true,
+            "system": false
+        }
+    ],
+    "mention_roles": [],
+    "mention_everyone": false,
+    "attachments": [],
+    "embeds": [],
+    "reactions": [],
+    "pinned": false,
+    "type": 0,
+    "webhook_id": null,
+    "stickers": [],
+    "referenced_message_id": null,
+    "referenced_message_author_id": null,
+    "referenced_message_author_name": null,
+    "referenced_message_content": null
+}
