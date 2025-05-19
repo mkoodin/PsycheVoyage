@@ -13,8 +13,8 @@
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/datalumina/genai-launchpad.git
-cd genai-launchpad
+git clone https://github.com/datamonkeyai/PsycheVoyage.git
+cd PsycheVoyage
 ```
 
 #### 2. Set up environment files
