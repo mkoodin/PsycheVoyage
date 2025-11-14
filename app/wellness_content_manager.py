@@ -300,7 +300,7 @@ class WellnessContentManager:
         """
         logger.info(f"Creating completion for {context.content_type.value} content")
 
-        llm = LLMFactory("openai")
+        llm = LLMFactory("anthropic")
 
         # Get the prompt template with required variables
         try:
