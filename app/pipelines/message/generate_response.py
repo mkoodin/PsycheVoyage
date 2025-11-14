@@ -139,7 +139,7 @@ class GenerateResponse(LLMNode):
         # Get RAG context
         rag_context = self.search_kb(context.content, context.intent)
 
-        llm = LLMFactory("anthropic")
+        llm = LLMFactory("openai")
         SYSTEM_PROMPT = PromptManager.get_prompt(template="message_response")
         response_model, completion = llm.create_completion(
             response_model=self.ResponseModel,
