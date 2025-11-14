@@ -158,7 +158,7 @@ class AnalyzeMessage(LLMNode):
         history = self.get_conversation_history(channel_id)
 
         # Otherwise, proceed with normal LLM classification
-        llm = LLMFactory("openai")
+        llm = LLMFactory("anthropic")
         prompt = PromptManager.get_prompt(
             "message_analysis",
             pipeline="message",
